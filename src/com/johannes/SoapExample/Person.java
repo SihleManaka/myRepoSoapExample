@@ -1,7 +1,9 @@
 package com.johannes.SoapExample;
 
 import java.io.Serializable;
-
+/*
+ * test if it pushes to Git
+ */
 public class Person implements Serializable {
 	
 private static final long serialVersionUID = -5577579081118070434L;
